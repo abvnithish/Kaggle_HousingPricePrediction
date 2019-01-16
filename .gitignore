@@ -1,8 +1,9 @@
+$ cat .gitignore
 ##### Data Folders:
-data
+/data
 
 ##### Submission Files:
-Submissions
+/Submissions
 
 ##### Reference Files:
 a-study-on-regression-applied-to-the-ames-dataset.ipynb
