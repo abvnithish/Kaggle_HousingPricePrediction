@@ -6,4 +6,9 @@ $ cat .gitignore
 /Submissions
 
 ##### Reference Files:
-a-study-on-regression-applied-to-the-ames-dataset.ipynb
+stacked-regressions-top-4-on-leaderboard.ipynb
+
+##### Random Working Files:
+WorkingNotebook_Backup.ipynb
+Submissions_Work.ipynb
+WorkingNotebook.ipynb
