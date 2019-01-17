@@ -5,6 +5,9 @@ $ cat .gitignore
 ##### Submission Files:
 /Submissions
 
+##### Jupyter Notebooks Checkpoints folder:
+.ipynb_checkpoints
+
 ##### Reference Files:
 stacked-regressions-top-4-on-leaderboard.ipynb
 
