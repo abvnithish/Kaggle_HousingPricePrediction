@@ -1,4 +1,4 @@
-# AmesHousingData
+# House Prices (AmesHousingData): Advanced Regression Techniques
 Link to Kaggle Competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 ### Brief about the dataset:
